@@ -28,7 +28,7 @@ class StampModel extends CommonModel {
 
 	const EXCHANGE_STAMP_POINT = 500;
 
-
+// 変更てすと２
 
 
 	/** ==================================================
