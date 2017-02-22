@@ -16,7 +16,7 @@ require_once "libraries/DbVpreca.php";
 require_once "libraries/DbCommon.php";
 require_once "libraries/CSRF.php";
 
-// 変更てすと3
+// 変更てすと4
 
 class StampModel extends CommonModel {
 
